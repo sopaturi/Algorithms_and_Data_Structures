@@ -1,0 +1,1 @@
+This repository is a collection of solved Leetcode problems.  The problems span easy and medium questions.  The problems cover the following topics: Strings+Arrays, Linked Lists, Trees, Sorting and Searching, Dynamic Programming, and Backtracking.
